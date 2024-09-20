@@ -1,1 +1,1 @@
-This repo lists out all the projects that I've worked on.
+This project aims to detect COVID-19 from chest X-ray images using a variational autoencoder (VAE). The model helps in identifying patterns and anomalies in X-ray images that correspond to COVID-19 cases, contributing to the advancement in the medical field.
